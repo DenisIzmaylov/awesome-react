@@ -141,6 +141,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Taking React to the next level: Mixins, Gulp, and Browserify](http://pomax.github.io/?#gh-weblog-1420592591221)
 * [Getting Started with React](http://ryanclark.me/getting-started-with-react/)
 * [React Tips and Best Practices](http://aeflash.com/2015-02/react-tips-and-best-practices.html)
+* [Best practices for building large React applications](http://blog.siftscience.com/blog/2015/best-practices-for-building-large-react-applications)
 * [Building a Stateless Rails API with React and Twitter OAuth](http://fredguest.com/2015/03/06/building-a-stateless-rails-api-with-react-and-twitter-oauth/)
 * [React Primer](https://github.com/mikechau/react-primer-draft)
 * [Mailbox in React](http://blog.tryolabs.com/2015/04/07/react-examples-mailbox/)
